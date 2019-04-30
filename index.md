@@ -13,7 +13,7 @@ Correctness 2018: Second International Workshop on Software Correctness for HPC 
 #### November 18, 2019
 #### Colorado Convention Center, <font color="FF0000">Room: TBD</font>
 #### Denver, Colorado, USA
-##### Held in conjunction with SC19: [The International Conference for High Performance Computing, Networking, Storage and Analysis](https://sc18.supercomputing.org/)
+##### Held in conjunction with SC19: [The International Conference for High Performance Computing, Networking, Storage and Analysis](https://sc19.supercomputing.org/)
 ##### In cooperation with [![SIGHPC](/img/SIGhpc_logo_small.png)](http://www.sighpc.org)
 -->
 
@@ -21,7 +21,7 @@ Correctness 2018: Second International Workshop on Software Correctness for HPC 
 <center><h4> November 18, 2019 (full day) </h4></center>
 <center><h4> Colorado Convention Center, <font color="0000FF">Room: TBD</font> </h4></center>
 <center><h4> Denver, Colorado, USA </h4></center>
-<center><h5> Held in conjunction with SC18: <a href="https://sc18.supercomputing.org/">The International Conference for High Performance Computing, Networking, Storage and Analysis</a> </h5></center>
+<center><h5> Held in conjunction with SC19: <a href="https://sc19.supercomputing.org/">The International Conference for High Performance Computing, Networking, Storage and Analysis</a> </h5></center>
 <center>
 In cooperation with <br />
 <a href="http://www.computer.org">
