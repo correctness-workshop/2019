@@ -91,7 +91,7 @@ We encourage authors to submit an **optional** artifact description (AD) appendi
 ---
 ###  <a class="anchor" name="proceedings"> Proceedings </a>
 
-Expect that the proceedings will be archived in IEEE Xplore via [TCHPC](https://tc.computer.org/tchpc/).
+We expect that the proceedings will be archived in IEEE Xplore via [TCHPC](https://tc.computer.org/tchpc/).
 
 ---
 ### <a class="anchor" name="dates"> Important Dates </a>
