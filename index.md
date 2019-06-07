@@ -19,7 +19,7 @@ Correctness 2018: Second International Workshop on Software Correctness for HPC 
 
 <center><h2>Correctness 2019: Third International Workshop on Software Correctness for HPC Applications</h2></center>
 <center><h4> November 18, 2019 (full day) </h4></center>
-<center><h4> Colorado Convention Center, <font color="0000FF">Room: TBD</font> </h4></center>
+<center><h4> Colorado Convention Center, <font color="0000FF">Room: 505</font> </h4></center>
 <center><h4> Denver, Colorado, USA </h4></center>
 <center><h5> Held in conjunction with SC19: <a href="https://sc19.supercomputing.org/">The International Conference for High Performance Computing, Networking, Storage and Analysis</a> </h5></center>
 <center>
@@ -86,12 +86,12 @@ Submitted papers must represent original unpublished research that is not curren
 
 #### SC Reproducibility Initiative
 
-We encourage authors to submit an **optional** artifact description (AD) appendix along with their paper, describing the details of their software environments and computational experiments to the extent that an independent person could replicate their results. The AD appendix is not included in the 8-page limit of the paper and should not exceed **2 pages** of content. For more details of the **SC Reproducibility Initiative** please see: [https://sc18.supercomputing.org/submit/sc-reproducibility-initiative/](https://sc18.supercomputing.org/submit/sc-reproducibility-initiative/).
+We encourage authors to submit an **optional** artifact description (AD) appendix along with their paper, describing the details of their software environments and computational experiments to the extent that an independent person could replicate their results. The AD appendix is not included in the 8-page limit of the paper and should not exceed **2 pages** of content. For more details of the **SC Reproducibility Initiative** please see: [https://sc19.qltdclient.com/submit/reproducibility-initiative/](https://sc19.qltdclient.com/submit/reproducibility-initiative/).
 
 ---
 ###  <a class="anchor" name="proceedings"> Proceedings </a>
 
-We expect that the proceedings will be archived in IEEE Xplore via [TCHPC](https://tc.computer.org/tchpc/).
+The proceedings will be archived in IEEE Xplore via [TCHPC](https://tc.computer.org/tchpc/).
 
 ---
 ### <a class="anchor" name="dates"> Important Dates </a>
@@ -112,14 +112,27 @@ All time zones are AOE.
 ---
 ### <a class="anchor" name="pc">Program Committee</a>
 
-TBD
+[Alper Altuntas](https://staff.ucar.edu/users/altuntas), National Center for Atmospheric Research, USA <br />
+[Allison H. Baker](https://staff.ucar.edu/users/abaker), National Center for Atmospheric Research, USA <br />
+[John Baugh](https://www.ccee.ncsu.edu/people/jwb/), North Carolina State University, USA <br />
+[Patrick Carribault](http://www.cea.fr/), CEA-DAM, France  <br />
+[Ganesh Gopalakrishnan](https://www.cs.utah.edu/~ganesh/), University of Utah, USA <br />
+[Jeff Huang](https://parasol.tamu.edu/~jeff/), Texas A&M University, USA <br />
+[Geoffrey C. Hulette]( http://www.sandia.gov/), Sandia National Laboratories, USA <br /> 
+[Sriram Krishnamoorthy](http://hpc.pnl.gov/people/sriram/), Pacific Northwest National Laboratory, USA <br />
+[Michael O. Lam](https://w3.cs.jmu.edu/lam2mo/), James Madison University, USA <br />
+[Jackson Mayo]( http://www.sandia.gov/), Sandia National Laboratories, USA <br />
+[Tristan Ravitch]( https://galois.com/team/tristan-ravitch/), Galois, Inc, USA <br />
+[Nathalie Revol](http://perso.ens-lyon.fr/nathalie.revol/), INRIA - ENS de Lyon, France <br />
+[Emmanuelle Saillard](http://emmanuellesaillard.fr/), INRIA Bordeaux, France  <br />
+[Markus Schordan]( https://people.llnl.gov/schordan1), Lawrence Livermore National Laboratory, USA <br />
 
 ---
 ### <a class="anchor" name="venue">Venue</a>
 
 The Colorado Convention Center <br />
 700 14th St, Denver, CO 80202 <br />
-<font color="0000FF">Room: TBD</font>
+<font color="0000FF">Room: 505</font>
 
 ---
 ### <a class="anchor" name="program">Program</a>
