@@ -106,7 +106,7 @@ All time zones are AOE.
 ---
 ### <a class="anchor" name="org">Organizers</a>
 
-[Ignacio Laguna](https://sites.google.com/site/researchlaguna/), LLNL <br />
+[Ignacio Laguna](http://lagunaresearch.org/), LLNL <br />
 [Cindy Rubio-González](http://web.cs.ucdavis.edu/~rubio/), UC Davis
 
 ---
