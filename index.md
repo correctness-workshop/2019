@@ -82,7 +82,7 @@ Submissions are expected in the following two categories; all submissions must u
 * **Short papers:** position, opinion, or short experience papers; 4 pages maximum, including everything.
 -->
 
-Submitted papers must represent original unpublished research that is not currently under review for any other venue. Papers not following these guidelines will be rejected without review. Submissions received after the due date, exceeding length limit, or not appropriately structured may also not be considered. At least one author of an accepted paper must register for and attend the workshop. Authors may contact the workshop organizers for more information. Papers should be submitted electronically at: TBD.
+Submitted papers must represent original unpublished research that is not currently under review for any other venue. Papers not following these guidelines will be rejected without review. Submissions received after the due date, exceeding length limit, or not appropriately structured may also not be considered. At least one author of an accepted paper must register for and attend the workshop. Authors may contact the workshop organizers for more information. Papers should be submitted electronically at: [https://submissions.supercomputing.org/](https://submissions.supercomputing.org/).
 
 #### SC Reproducibility Initiative
 
@@ -150,4 +150,9 @@ TBD
 ###  <a class="anchor" name="contact">Contact Information</a>
 
 Please address workshop questions to Ignacio Laguna (ilaguna@llnl.gov) and/or Cindy Rubio-González (crubio@ucdavis.edu).
+
+---
+### <a class="anchor" name="previous">Previous Workshops</a>
+- [Correctness 2017](https://correctness-workshop.github.io/2017/)
+- [Correctness 2018](https://correctness-workshop.github.io/2018/)
 
