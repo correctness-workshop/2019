@@ -140,7 +140,7 @@ The Colorado Convention Center <br />
 ###### Keynote 1
 <table>
 <tr><td width="15">  </td> <td>09:00am - 09:05am:  Opening remarks    </td> </tr>
-<tr><td width="15">  </td> <td>09:05am - 10:00am:  Keynote Speaker 1 </td> </tr>
+<tr><td width="15">  </td> <td>09:05am - 10:00am:  Keynote Speaker 1:  Alex Aiken (Stanford University) </td> </tr>
 </table>
 
 ###### Break
@@ -168,7 +168,7 @@ The Colorado Convention Center <br />
 
 ###### Keynote 2
 <table>
-<tr><td width="15">  </td> <td>02:00pm - 03:00pm:  Keynote Speaker 2  </td> </tr>
+<tr><td width="15">  </td> <td>02:00pm - 03:00pm:  Keynote Speaker 2:  Allison Baker (NCAR) </td> </tr>
 </table>
 
 ###### Break
