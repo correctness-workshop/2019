@@ -148,7 +148,7 @@ The Colorado Convention Center <br />
 <tr><td width="15">  </td> <td><font color="007700">10:00am - 10:30am:  Break (coffee provided by SC19) </font></td> </tr>
 </table>
 
-###### Correctness in Algorithms and Applications
+###### Correctness in Algorithms and Applications (Chair: Markus Schordan)
 <table>
 <tr><td width="15">  </td> <td>10:30am - 11:00am:  <b>"Bounded Verification of Sparse Matrix Computations"</b>, Tristan Dyer, Alper Altuntas, John Baugh</td> </tr>
 
