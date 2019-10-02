@@ -176,9 +176,13 @@ The Colorado Convention Center <br />
 <tr><td width="15">  </td> <td><font color="007700">03:00pm - 03:30pm:  Break (coffee provided by SC19) </font></td> </tr>
 </table>
 
-###### Debugging Tools
+###### Invited Talk
 <table>
 <tr><td width="15">  </td> <td>03:30pm - 04:30pm:  Invited Talk  </td> </tr>
+</table>
+
+###### Debugging Tools
+<table>
 
 <tr><td width="15">  </td> <td>04:30pm - 05:00pm:  <b>"Debugging and optimization of HPC programs with the Verrou tool"</b>, Bruno Lathuilière, François Fevotte </td> </tr>
 
