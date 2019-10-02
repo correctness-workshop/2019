@@ -173,7 +173,7 @@ The Colorado Convention Center <br />
 
 ###### Break
 <table>
-<tr><td width="15">  </td> <td><font color="007700">03:00pm - 03:30pm:  Break (coffee provided by SC18) </font></td> </tr>
+<tr><td width="15">  </td> <td><font color="007700">03:00pm - 03:30pm:  Break (coffee provided by SC19) </font></td> </tr>
 </table>
 
 ###### Debugging Tools
