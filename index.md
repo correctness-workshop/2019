@@ -131,15 +131,59 @@ The Colorado Convention Center <br />
 <font color="0000FF">Room: 505</font>
 
 ---
-### <a class="anchor" name="program">Program</a>
+### <a class="anchor" name="program">Preliminary Program</a>
 <br />
 
-TBD
-
-<br />
 #### Workshop Schedule
-<br />
-TBD
+
+
+###### Keynote 1
+<table>
+<tr><td width="15">  </td> <td>09:00am - 09:05am:  Opening remarks    </td> </tr>
+<tr><td width="15">  </td> <td>09:05am - 10:00am:  Keynote Speaker 1 </td> </tr>
+</table>
+
+###### Break
+<table>
+<tr><td width="15">  </td> <td><font color="007700">10:00am - 10:30am:  Break (coffee provided by SC19) </font></td> </tr>
+</table>
+
+###### Correctness in Algorithms and Applications
+<table>
+<tr><td width="15">  </td> <td>10:30am - 11:00am:  <b>"Bounded Verification of Sparse Matrix Computations"</b>, Tristan Dyer, Alper Altuntas, John Baugh</td> </tr>
+
+<tr><td width="15">  </td> <td>11:00am - 11:30am:  <b>"Investigating the Impact of Mixed Precision on Correctness for a Large Climate Code"</b>, Daniel J. Milroy, Allison H. Baker, John M. Dennis, Andrew Gettelman, Dorit M. Hammerling </td> </tr>
+</table>
+###### Floating-Point Mixed Precision
+<table>
+<tr><td width="15">  </td> <td>11:30am - 12:00pm:  <b>"Toward Multi-Precision, Multi-Format Numerics"</b>, David Thien, Bill Zorn, Pavel Panchekha, Zachary Tatlock </td> </tr>
+
+<tr><td width="15">  </td> <td>12:00pm - 12:30pm:  <b>"Tool Integration for Source-Level Mixed Precision"</b>, Michael O. Lam, Tristan Vanderbruggen, Harshitha Menon, Markus Schordan </td> </tr>
+</table>
+
+###### Lunch Break
+<table>
+<tr><td width="15">  </td> <td><font color="007700">12:30pm - 02:00pm:  Lunch (on your own) </font></td> </tr>
+</table>
+
+###### Keynote 2
+<table>
+<tr><td width="15">  </td> <td>02:00pm - 03:00pm:  Keynote Speaker 2  </td> </tr>
+</table>
+
+###### Break
+<table>
+<tr><td width="15">  </td> <td><font color="007700">03:00pm - 03:30pm:  Break (coffee provided by SC18) </font></td> </tr>
+</table>
+
+###### Debugging Tools
+<table>
+<tr><td width="15">  </td> <td>03:30pm - 04:30pm:  Invited Talk  </td> </tr>
+
+<tr><td width="15">  </td> <td>04:30pm - 05:00pm:  <b>"Debugging and optimization of HPC programs with the Verrou tool"</b>, Bruno Lathuilière, François Fevotte </td> </tr>
+
+<tr><td width="15">  </td> <td>05:00pm - 05:30pm:  <b>"Exploring Regression of Data Race Detection Tools Using DataRaceBench"</b>, Pei-Hung Lin, Chunhua Liao, Markus Schordan, Ian Karlin </td> </tr>
+</table>
 
 
 ---
