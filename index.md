@@ -181,7 +181,7 @@ The Colorado Convention Center <br />
 <tr><td width="15">  </td> <td>03:30pm - 04:30pm:  Invited Talk  </td> </tr>
 </table>
 
-###### Debugging Tools
+###### Debugging Tools (Chair: Michael Lam)
 <table>
 
 <tr><td width="15">  </td> <td>04:30pm - 05:00pm:  <b>"Debugging and optimization of HPC programs with the Verrou tool"</b>, Bruno Lathuilière, François Fevotte </td> </tr>
