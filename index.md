@@ -216,7 +216,6 @@ Allison Baker is a Project Scientist III at the National Center for Atmospheric 
 
 ---
 ###  <a class="anchor" name="contact">Contact Information</a>
-
 Please address workshop questions to Ignacio Laguna (ilaguna@llnl.gov) and/or Cindy Rubio-González (crubio@ucdavis.edu).
 
 ---
