@@ -148,12 +148,16 @@ The Colorado Convention Center <br />
 <tr><td width="15">  </td> <td><font color="007700">10:00am - 10:30am:  Break (coffee provided by SC19) </font></td> </tr>
 </table>
 
-###### Correctness in Algorithms and Applications (Chair: Markus Schordan)
-<table>
-<tr><td width="15">  </td> <td>10:30am - 11:00am:  <b>"Bounded Verification of Sparse Matrix Computations"</b>, Tristan Dyer, Alper Altuntas, John Baugh</td> </tr>
 
-<tr><td width="15">  </td> <td>11:00am - 11:30am:  <b>"Investigating the Impact of Mixed Precision on Correctness for a Large Climate Code"</b>, Daniel J. Milroy, Allison H. Baker, John M. Dennis, Andrew Gettelman, Dorit M. Hammerling </td> </tr>
+
+###### Debugging Tools (Chair: Michael Lam)
+<table>
+
+<tr><td width="15">  </td> <td>10:30am - 11:00am:  <b>"Debugging and optimization of HPC programs with the Verrou tool"</b>, Bruno Lathuilière, François Fevotte </td> </tr>
+
+<tr><td width="15">  </td> <td>11:00am - 11:30am:  <b>"Exploring Regression of Data Race Detection Tools Using DataRaceBench"</b>, Pei-Hung Lin, Chunhua Liao, Markus Schordan, Ian Karlin </td> </tr>
 </table>
+
 ###### Floating-Point Mixed Precision (Chair: Emmanuelle Saillard)
 <table>
 <tr><td width="15">  </td> <td>11:30am - 12:00pm:  <b>"Toward Multi-Precision, Multi-Format Numerics"</b>, David Thien, Bill Zorn, Pavel Panchekha, Zachary Tatlock </td> </tr>
@@ -181,14 +185,12 @@ The Colorado Convention Center <br />
 <tr><td width="15">  </td> <td>03:30pm - 04:30pm:  Invited Talk  </td> </tr>
 </table>
 
-###### Debugging Tools (Chair: Michael Lam)
+###### Correctness in Algorithms and Applications (Chair: Markus Schordan)
 <table>
+<tr><td width="15">  </td> <td>04:30pm - 05:00pm:  <b>"Bounded Verification of Sparse Matrix Computations"</b>, Tristan Dyer, Alper Altuntas, John Baugh</td> </tr>
 
-<tr><td width="15">  </td> <td>04:30pm - 05:00pm:  <b>"Debugging and optimization of HPC programs with the Verrou tool"</b>, Bruno Lathuilière, François Fevotte </td> </tr>
-
-<tr><td width="15">  </td> <td>05:00pm - 05:30pm:  <b>"Exploring Regression of Data Race Detection Tools Using DataRaceBench"</b>, Pei-Hung Lin, Chunhua Liao, Markus Schordan, Ian Karlin </td> </tr>
+<tr><td width="15">  </td> <td>05:00pm - 05:30pm:  <b>"Investigating the Impact of Mixed Precision on Correctness for a Large Climate Code"</b>, Daniel J. Milroy, Allison H. Baker, John M. Dennis, Andrew Gettelman, Dorit M. Hammerling </td> </tr>
 </table>
-
 
 ---
 ###  <a class="anchor" name="contact">Contact Information</a>
