@@ -154,7 +154,7 @@ The Colorado Convention Center <br />
 
 <tr><td width="15">  </td> <td>11:00am - 11:30am:  <b>"Investigating the Impact of Mixed Precision on Correctness for a Large Climate Code"</b>, Daniel J. Milroy, Allison H. Baker, John M. Dennis, Andrew Gettelman, Dorit M. Hammerling </td> </tr>
 </table>
-###### Floating-Point Mixed Precision
+###### Floating-Point Mixed Precision (Chair: Emmanuelle Saillard)
 <table>
 <tr><td width="15">  </td> <td>11:30am - 12:00pm:  <b>"Toward Multi-Precision, Multi-Format Numerics"</b>, David Thien, Bill Zorn, Pavel Panchekha, Zachary Tatlock </td> </tr>
 
