@@ -134,6 +134,28 @@ The Colorado Convention Center <br />
 ### <a class="anchor" name="program">Preliminary Program</a>
 <br />
 
+**Keynote Speaker 1 (Morning Session)**
+<br />
+
+#### [Alex Aiken](http://theory.stanford.edu/~aiken/), Alcatel-Lucent Professor of Computer Science, Stanford University
+<img src="img/aiken2019.jpg" alt="Alex Aiken" width="180">
+
+**Bio:**
+Alex Aiken is the Alcatel-Lucent Professor of Computer Science at Stanford. Alex received his Bachelors degree in Computer Science and Music from Bowling Green State University in 1983 and his Ph.D. from Cornell University in 1988. Alex was a Research Staff Member at the IBM Almaden Research Center (1988-1993) and a Professor in the EECS department at UC Berkeley (1993-2003) before joining the Stanford faculty in 2003. His research interest is in areas related to programming languages. He is an ACM Fellow, a recipient of ACM SIGPLAN's Programming Languages Achievement Award and Phi Beta Kappa's Teaching Award, and a former chair of the Stanford Computer Science Department.
+
+<br />
+
+**Keynote Speaker 2 (Afternoon Session)**
+<br />
+
+#### [Allison Baker](https://staff.ucar.edu/users/abaker), Project Scientist III, National Center for Atmospheric Research (NCAR)
+<img src="img/abaker.jpg" alt="Allison Baker" width="180">
+
+**Bio:**
+Allison Baker is a Project Scientist III at the National Center for Atmospheric Research (NCAR). Her research interests include high-performance computing, performance analysis, iterative linear solvers, Earth System models, data compression, and verification techniques. She earned her B.S. in Mechanical Engineering from Rice University and her Ph.D. in Applied Mathematics from the University of Colorado in 2003. Then she joined the Center for Applied Scientific Computing at Livermore National Laboratory, where she made contributions to parallel algebraic multigrid methods and preparations for exascale computing as part of the HYPRE solvers team. In 2012, she joined the Application Scalability and Performance group at NCAR and works primarily on improvement efforts for the the Community Earth System Model (CESM).  Most recently, she has led the development of tools for determining whether CESM climate runs are statistically distinguishable (for scenarios where bit-for-bit reproducibility is not possible) and an investigation into the feasibility and science implications of applying lossy data compression to CESM output data.
+
+<br />
+
 #### Workshop Schedule
 
 
