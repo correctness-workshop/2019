@@ -94,8 +94,8 @@ The proceedings will be archived in IEEE Xplore via [TCHPC](https://tc.computer.
 
 * Paper submissions due: ~~August 9, 2019~~ **Extended:** August 19, 2019 
 * Notification of acceptance: September 20, 2019
-* E-copyright registration completed by authors (firm): October 3, 2019
-* Camera-ready papers due (firm): October 8, 2019 
+* E-copyright registration completed by authors (firm): ~~October 3, 2019~~ TBD
+* Camera-ready papers due (firm): ~~October 8, 2019~~ TBD 
 
 All time zones are AOE.
 
