@@ -156,6 +156,18 @@ Allison Baker is a Project Scientist III at the National Center for Atmospheric 
 
 <br />
 
+**Invited Industry Talk (Afternoon Session)**
+<br />
+
+
+#### *Taming the Digital Wild West: Using Domain Specific Languages to Enforce Correctness Properties in Data Science, Machine Learning, and Scientific Modeling*
+[Galois, Inc.](https://galois.com/)
+
+**Abstract:** TBD
+
+<br />
+<br />
+
 #### Workshop Schedule
 
 
@@ -204,7 +216,7 @@ Allison Baker is a Project Scientist III at the National Center for Atmospheric 
 
 ###### Invited Talk
 <table>
-<tr><td width="15">  </td> <td>03:30pm - 04:30pm:  Invited Talk  </td> </tr>
+<tr><td width="15">  </td> <td>03:30pm - 04:30pm:  <b> Taming the Digital Wild West: Using Domain Specific Languages to Enforce Correctness Properties in Data Science, Machine Learning, and Scientific Modeling </b>, <a href="https://galois.com/">Galois, Inc.</a>  </td> </tr>
 </table>
 
 ###### Correctness in Algorithms and Applications (Chair: Markus Schordan)
