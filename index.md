@@ -19,7 +19,7 @@ Correctness 2018: Second International Workshop on Software Correctness for HPC 
 
 <center><h2>Correctness 2019: Third International Workshop on Software Correctness for HPC Applications</h2></center>
 <center><h4> November 18, 2019 (full day) </h4></center>
-<center><h4> Colorado Convention Center, <font color="0000FF">Room: 505</font> </h4></center>
+<center><h4> Colorado Convention Center, <font color="0000FF">Room: 712</font> </h4></center>
 <center><h4> Denver, Colorado, USA </h4></center>
 <center><h5> Held in conjunction with SC19: <a href="https://sc19.supercomputing.org/">The International Conference for High Performance Computing, Networking, Storage and Analysis</a> </h5></center>
 <center>
@@ -128,7 +128,7 @@ All time zones are AOE.
 
 The Colorado Convention Center <br />
 700 14th St, Denver, CO 80202 <br />
-<font color="0000FF">Room: 505</font>
+<font color="0000FF">Room: 712</font>
 
 ---
 ### <a class="anchor" name="program">Preliminary Program</a>
