@@ -173,6 +173,8 @@ Allison Baker is a Project Scientist III at the National Center for Atmospheric 
 #### *Taming the Digital Wild West: Using Domain Specific Languages to Enforce Correctness Properties in Data Science, Machine Learning, and Scientific Modeling*
 [Galois, Inc.](https://galois.com/)
 
+**Abstract:** Recent advances in machine learning and data science have resulted in a sort of digital gold rush.  Early wins for classification, regression, and deep learning have been driven by advertising and recommendation systems.  The cost of errors in these systems is low, which has led to a prioritization of minimizing execution time, often without regard to correctness considerations.  These priorities have resulted in many state-of-the-art methods operating as a black box which often fails to generalize.  In this talk we discuss the use of domain specific languages (DSLs) to address these short comings, build trust in algorithms and the correctness of their results, and to improve the accessibility of machine learning and data science algorithms and methods to scientists, policy makers, and other users with critical application areas.  We present the advantages of both embedded and stand-alone DSLs for not only usability and performance, but also for analysis and formal reasoning; discuss the use of DSLs to enforce different types of correctness constraints in domain models; the challenges presented by proving the implementation of a DSL is correct; and examples of successful application of DSLs by domain scientists.
+
 <br />
 <br />
 
