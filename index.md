@@ -131,7 +131,7 @@ The Colorado Convention Center <br />
 <font color="0000FF">Room: 712</font>
 
 ---
-### <a class="anchor" name="program">Preliminary Program</a>
+### <a class="anchor" name="program">Program</a>
 <br />
 
 **Keynote Speaker 1 (Morning Session)**
